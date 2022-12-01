@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kabouzeid:app-theme-helper:1.3.10@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6a13815891a3aa9b265b65b1a7f491d/jetified-app-theme-helper-1.3.10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6a13815891a3aa9b265b65b1a7f491d/jetified-app-theme-helper-1.3.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6a13815891a3aa9b265b65b1a7f491d/jetified-app-theme-helper-1.3.10/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f3b08792bab399546e5a4f3d4f4637e9/jetified-app-theme-helper-1.3.10/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f3b08792bab399546e5a4f3d4f4637e9/jetified-app-theme-helper-1.3.10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f3b08792bab399546e5a4f3d4f4637e9/jetified-app-theme-helper-1.3.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a1c8299d6baf4dac2ab8f5c26dc2724/jetified-app-theme-helper-1.3.10/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a1c8299d6baf4dac2ab8f5c26dc2724/jetified-app-theme-helper-1.3.10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a1c8299d6baf4dac2ab8f5c26dc2724/jetified-app-theme-helper-1.3.10/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e211212c95b894895761b939a5df1be/jetified-app-theme-helper-1.3.10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e211212c95b894895761b939a5df1be/jetified-app-theme-helper-1.3.10/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e211212c95b894895761b939a5df1be/jetified-app-theme-helper-1.3.10/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

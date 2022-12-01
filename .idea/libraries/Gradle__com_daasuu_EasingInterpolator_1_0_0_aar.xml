@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.daasuu:EasingInterpolator:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75b2a8a08e81f0f3d962a9b63b095bc2/jetified-EasingInterpolator-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75b2a8a08e81f0f3d962a9b63b095bc2/jetified-EasingInterpolator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75b2a8a08e81f0f3d962a9b63b095bc2/jetified-EasingInterpolator-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e3a6c2b3ece54fee153c8a39e87f6f8/jetified-EasingInterpolator-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e3a6c2b3ece54fee153c8a39e87f6f8/jetified-EasingInterpolator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e3a6c2b3ece54fee153c8a39e87f6f8/jetified-EasingInterpolator-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee38f4ddc237b0c432fde6f4aa3bae8c/jetified-EasingInterpolator-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee38f4ddc237b0c432fde6f4aa3bae8c/jetified-EasingInterpolator-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee38f4ddc237b0c432fde6f4aa3bae8c/jetified-EasingInterpolator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4001915a329281f86141737356c0d3ab/jetified-EasingInterpolator-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4001915a329281f86141737356c0d3ab/jetified-EasingInterpolator-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4001915a329281f86141737356c0d3ab/jetified-EasingInterpolator-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daasuu/EasingInterpolator/1.0.0/d4ab98edd67a27cf8098aad45c925b1d86d882d5/EasingInterpolator-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daasuu/EasingInterpolator/1.0.0/d351f34f4f7c33b37e8b679fcec78bf5b9ca838a/EasingInterpolator-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
